@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-math-blog
+    name: For-sirayuki-tumu.harusame
     env: python
     region: Oregon
     plan: free
